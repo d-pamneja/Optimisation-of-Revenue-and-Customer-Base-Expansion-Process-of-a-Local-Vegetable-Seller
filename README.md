@@ -6,8 +6,8 @@ Business Data Management Project
 * He purchases and sells fruits and vegetables across multiple adjacent localities, however the primary market presently is in my locality, Punjabi Bagh, New Delhi.
 * Currently, he sells to apartment/bungalow owner families, slum area families and restaurants in the locality
 * Key problems faced by the business are:
- * * Niche customer base which is facing competition from online suppliers. This has created a barrier to generate more revenues
- * * Potential stock wastages and monetary mismanagement, due to unorganized way of bookkeeping
+   * Niche customer base which is facing competition from online suppliers. This has created a barrier to generate more revenues
+   * Potential stock wastages and monetary mismanagement, due to unorganized way of bookkeeping
 
 ## Analysis Methodology & Tools Used
 * Pivot Tables, VLookup, Filters, and the sorting function have been essential tools for my study since they have made it much easier to grasp the data in a categorical way.
